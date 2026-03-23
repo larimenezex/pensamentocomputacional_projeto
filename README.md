@@ -1,3 +1,13 @@
+# 🍽️ Sistema de Restaurante em Python
+
+Este repositório reúne projetos desenvolvidos em *Python*, com foco em:
+
+- Aplicação de *lógica de programação*  
+- *Orientação a Objetos (POO)*  
+- Desenvolvimento de *interfaces gráficas* com *Pygame*  
+- Estudo e prática de *desenvolvimento web* utilizando *APIs, Flask e Django*  
+
+Nosso objetivo é compartilhar exemplos de código e projetos que demonstrem como construir aplicações dinâmicas, integrar serviços externos e criar soluções robustas com Python.
 ## 📌 Projeto: CRUD Restaurante
 
 Este projeto é um sistema simples para gerenciamento de restaurante, incluindo funcionalidades como:
